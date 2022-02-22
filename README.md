@@ -1,4 +1,4 @@
 ### Hi there 👋
 <br />
-- 🌱 Currently studying C/C++ at 42Lausanne.
+🌱 Currently studying C/C++ at 42Lausanne.
 
