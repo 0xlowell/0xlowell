@@ -1,6 +1,6 @@
 ### Hi there, I'm Lowell 👋
 <br />
-🌱 Currently studying at 42Lausanne 
+🌱 Currently studying at 42Lausanne <br>
 ⏰ Working on dinning philosopher problem.
 https://en.wikipedia.org/wiki/Dining_philosophers_problem
 <br />
