@@ -5,4 +5,6 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elwoll&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/elwoll/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/elwoll/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
