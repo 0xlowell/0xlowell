@@ -4,5 +4,6 @@
 🧠  Working on cub3d project: This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way.
 <br />
 <br />
-📨 Linkedin: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+📨 Linkedin: <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lowell-zima-8a38a5156" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/lowell-zima-8a38a5156?trk=profile-badge">Lowell Zima</a></div>
+              
 <br />
