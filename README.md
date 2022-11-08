@@ -6,8 +6,6 @@
 <br />
 📨 Linkedin: <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lowell-zima-8a38a5156" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/lowell-zima-8a38a5156?trk=profile-badge">Lowell Zima</a></div>
 
-<br />
-<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elwoll&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
