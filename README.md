@@ -1,4 +1,4 @@
-## Hi there, I'm 0xlow 👋
+## Hi there, I'm Lowell 👋
 <br />
 🌱  Currently studying at 42Lausanne <br>
 
