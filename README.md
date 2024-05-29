@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Practical Deep Learning at fast.ai**
 
-- 💬 Ask me about **Azure, Python, Angular, Figma**
-
 - 📫 How to reach me **lzima@student.42lausanne.ch**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xlowell&show_icons=true&locale=en" alt="0xlowell" /></p>
