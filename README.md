@@ -4,5 +4,3 @@
 - 🔭 I’m currently working on **secret projects** I can't share here
 
 - 🌱 I’m currently learning with: **fast.ai** and prep for **AI-102-AI-engineer-associate-microsoft**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xlowell&show_icons=true&locale=en" alt="0xlowell" /></p>
