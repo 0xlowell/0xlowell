@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm 0xLow</h1>
+Hi 👋, I'm Lowell
 
-💼 Software Engineering / Applied AI Engineer
+I'm a software engineer / AI engineer / with a background in arts.
 
-[Website](https://0xlowell.github.io/pages/)
+Here is my portefolio: [Portefolio](https://0xlowell.github.io/pages/)
 
-[Latent Space Blog post: Rise of AI Engineer](https://www.latent.space/p/ai-engineer)
+Here is my favorite source of news: https://news.smol.ai/
+
